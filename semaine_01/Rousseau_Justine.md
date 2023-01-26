@@ -1,2 +1,2 @@
 Justine Rousseau
-![photo de moi](photographie.jpeg =250x250)
+![photo de moi](photographie.jpeg)
