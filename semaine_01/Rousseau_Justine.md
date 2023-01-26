@@ -1,2 +1,2 @@
 Justine Rousseau
-![photo de moi](photographie.jpeg | width=500)
+![photo de moi](photographie.jpeg =250x250)
