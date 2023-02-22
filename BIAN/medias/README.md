@@ -1,1 +1,1 @@
-Collection de 8 photographies et 4 vidéos des portraits numériques de Ian Spriggs: Coeus, Ichor, Tetrad et Prometheus (2022). Prises à la Biennale internationale d'art numérique (BIAN) de 2022.
+Collection de 8 photographies et 4 vidéos des portraits numériques de Ian Spriggs: Coeus (2022), Ichor (2022), Tetrad (2021) et Prometheus (2022). Prises à la 6e Biennale internationale d'art numérique (BIAN), février 2022.
