@@ -8,6 +8,15 @@ L'oeuvre était composée de quatre portaits 3D, dont Coeus (2022), Ichor (2022)
 <h3>Coeus (2022)</h3>
 Coeus est le dieu titan des esprits curieux et de l'intellect. Ce portrait hyper-réaliste décortique les multiples couches de notre corps pour nous amener à nous interroger sur notre être. C'est un portrait du moi intérieur et extérieur, du physique et de l'esprit. (tiré du catalogue d'exposition de la 6e BIAN)
 
+<h3>Prométhée (2022)</h3>
+Prométhée, le dieu titan du feu, est considéré comme le créateur de l'art et de la science. Il a tenté d'améliorer la vie humaine en volant le feu aux dieux et en le transmettant à l'humanité sous la forme de la technologie et du savoir. Le portrait anatomique "Prométhée" est une interprétation contemporaine qui poursuit l’exploration hyper-réaliste de l’artiste de l'humain numérique. (tiré du catalogue d'exposition de la 6e BIAN)
+
+<h3>Tetrad (2022)</h3>
+Tetrad est un portrait humain numérique 3D hyper-réaliste qui explore les questions d'identité, de multiples et d'originaux. Alors que nous entrons dans le métavers, la technologie nous permet de créer des copies extrêmement précises et détaillées de nous-mêmes. Le support numérique peut copier et coller nos ressemblances, nos identités et notre être lui-même. Comment nous définissons-nous alors à travers les différents "moi" que nous créons ? (tiré du catalogue d'exposition de la 6e BIAN)
+
+<h3>Ichor (2021)</h3>
+Dans la mythologie grecque, Ichor est le sang des dieux. Le sang a un pouvoir symbolique extraordinaire et a été représenté à travers l'histoire comme un symbole de vie et d'héritage. Ichor est un portrait qui révèle à la fois la surface d'un corps et le réseau interne de son système circulatoire. Ce portrait vise à remettre en question nos notions de portrait en allant au-delà de la surface, dans la vaste complexité de nos corps. (tiré du catalogue d'exposition de la 6e BIAN)
+
 <h2>Appréciation personnelle</h2>
 
 <h2>Références</h2>
