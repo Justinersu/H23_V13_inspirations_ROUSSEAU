@@ -14,19 +14,22 @@ L'oeuvre était composée de quatre portaits 3D, dont Coeus (2022), Ichor (2022)
 <h3>Coeus (2022)</h3>
 Coeus est le dieu titan des esprits curieux et de l'intellect. Ce portrait hyper-réaliste décortique les multiples couches de notre corps pour nous amener à nous interroger sur notre être. C'est un portrait du moi intérieur et extérieur, du physique et de l'esprit. (tiré du catalogue d'exposition de la 6e BIAN)
 <img src="medias/portrait_coeus.jpg">
-[![coeus](http://img.youtube.com/vi/ZiaT7Aq80-g&si=EnSIkaIECMiOmarE/0.jpg)](http://www.youtube.com/watch?v=ZiaT7Aq80-g&si=EnSIkaIECMiOmarE)
+[![coeus](http://img.youtube.com/vi/vQoJFxDM1lg&si=EnSIkaIECMiOmarE/0.jpg)](http://www.youtube.com/watch?v=vQoJFxDM1lg&si=EnSIkaIECMiOmarE)
 
 <h3>Prométhée (2022)</h3>
 Prométhée, le dieu titan du feu, est considéré comme le créateur de l'art et de la science. Il a tenté d'améliorer la vie humaine en volant le feu aux dieux et en le transmettant à l'humanité sous la forme de la technologie et du savoir. Le portrait anatomique "Prométhée" est une interprétation contemporaine qui poursuit l’exploration hyper-réaliste de l’artiste de l'humain numérique. (tiré du catalogue d'exposition de la 6e BIAN)
 <img src="medias/portrait_prometheus.jpg">
+[![prometheus](http://img.youtube.com/vi/HQYK4OuQkE4&si=EnSIkaIECMiOmarE/0.jpg)](http://www.youtube.com/watch?v=HQYK4OuQkE4&si=EnSIkaIECMiOmarE)
 
 <h3>Tetrad (2021)</h3>
 Tetrad est un portrait humain numérique 3D hyper-réaliste qui explore les questions d'identité, de multiples et d'originaux. Alors que nous entrons dans le métavers, la technologie nous permet de créer des copies extrêmement précises et détaillées de nous-mêmes. Le support numérique peut copier et coller nos ressemblances, nos identités et notre être lui-même. Comment nous définissons-nous alors à travers les différents "moi" que nous créons ? (tiré du catalogue d'exposition de la 6e BIAN)
 <img src="medias/portrait_tetrad.jpg">
+[![tetras](http://img.youtube.com/vi/TbBEON2e0C8&si=EnSIkaIECMiOmarE/0.jpg)](http://www.youtube.com/watch?v=TbBEON2e0C8&si=EnSIkaIECMiOmarE)
 
 <h3>Ichor (2022)</h3>
 Dans la mythologie grecque, Ichor est le sang des dieux. Le sang a un pouvoir symbolique extraordinaire et a été représenté à travers l'histoire comme un symbole de vie et d'héritage. Ichor est un portrait qui révèle à la fois la surface d'un corps et le réseau interne de son système circulatoire. Ce portrait vise à remettre en question nos notions de portrait en allant au-delà de la surface, dans la vaste complexité de nos corps. (tiré du catalogue d'exposition de la 6e BIAN)
 <img src="medias/portrait_ichor.jpg">
+[![ichor](http://img.youtube.com/vi/ZiaT7Aq80-g&si=EnSIkaIECMiOmarE/0.jpg)](http://www.youtube.com/watch?v=ZiaT7Aq80-g&si=EnSIkaIECMiOmarE)
 
 <h2>Appréciation personnelle</h2>
 Ce qui m'a plu de cette oeuvre c'est l'attention aux détails de l'artiste. En effet, dans les portraits de Coeus, Prométhée et Tetrad, on peut distinguer les centaines de petites veines qui recouvrent les visages complets. C'est très impressionant de voir tous ces petits éléments s'animer en harmonie. Les visages sont aussi très réalistes et ça m'a pris quelques secondes avant de réaliser qu'ils n'étaient pas réels et avaient tous été confectionnés dans un logiciel 3D. La session prochaine, je vais commencer à apprendre l'animation 3D. Ces portraits m'ont inspiré à non seulement chercher à construire un visage humain réaliste, mais aussi à donner attention à l'intérieur du corps. J'aime aussi beaucoup l'effet de métamorphose des portraits. Je vais définitivement tenter d'explorer ce type d'animation dans mes futurs projets.
