@@ -14,7 +14,7 @@ L'oeuvre était composée de quatre portaits 3D, dont Coeus (2022), Ichor (2022)
 <h3>Coeus (2022)</h3>
 Coeus est le dieu titan des esprits curieux et de l'intellect. Ce portrait hyper-réaliste décortique les multiples couches de notre corps pour nous amener à nous interroger sur notre être. C'est un portrait du moi intérieur et extérieur, du physique et de l'esprit. (tiré du catalogue d'exposition de la 6e BIAN)
 <img src="medias/portrait_coeus.jpg">
-![coeus](https://www.youtube.com/watch?v=ZiaT7Aq80-g&list=PLXvsmnzVsHfwf0mzWAIMNRQNT2Tsnsto7&index=4)
+[![coeus](http://img.youtube.com/vi/ZiaT7Aq80-g&si=EnSIkaIECMiOmarE/0.jpg)](http://www.youtube.com/watch?v=ZiaT7Aq80-g&si=EnSIkaIECMiOmarE)
 
 <h3>Prométhée (2022)</h3>
 Prométhée, le dieu titan du feu, est considéré comme le créateur de l'art et de la science. Il a tenté d'améliorer la vie humaine en volant le feu aux dieux et en le transmettant à l'humanité sous la forme de la technologie et du savoir. Le portrait anatomique "Prométhée" est une interprétation contemporaine qui poursuit l’exploration hyper-réaliste de l’artiste de l'humain numérique. (tiré du catalogue d'exposition de la 6e BIAN)
