@@ -25,6 +25,7 @@ L'exposition était située dans le petit studio de Techniques d'intégration mu
 <br /><br />
 <img src="medias/echomarine_schema.png">
 L'oeuvre est composée de deux haut-parleurs situé au coin haut droit et au coin haut gauche de la pièce. Trois projecteurs pointent aussi de différentes direction pour projeter les animations sur les rideaux. La tablette est située au centre sur un podium. Une batterie est attachée derrière le podium afin d'alimenter la tablette. Il y a un détecteur de mouvement pour pouvoir faire disparaître le tire lorsqu'un visiteur rentre dans la pièce et activer la lumière en haut du podium. Les fils sont tous accrochés au plafond de la pièce afin de bien les dissimuler.
+<br /><br />
 <img src="medias/echomarine_haut_parleur_droit.jpg">
 <img src="medias/echomarine_projecteur_1.jpg">
 <img src="medias/echomarine_tablette_support.png">
@@ -32,6 +33,8 @@ L'oeuvre est composée de deux haut-parleurs situé au coin haut droit et au coi
 <img src="medias/echomarine_detecteur_mouvement.png">
 <img src="medias/echomarine_lumiere_plafond.png">
 Lorsque le visiteur entre dans la pièce, le titre disparaît et une lumière bleu s'active en haut du podium de la tablette. Le visiteur se dirige ensuite vers la tablette, et six choix d'espèce s'offrent à lui. Il peut cliquer sur chacun d'eux afin d'activer une animation qui est projetée sur les trois rideaux. Son regard passe de sa droite à sa gauche alors que les animations traversent les différents rideaux. Un texte lui est aussi présenté sur la tablette, le sensibilisant aux causes de l'extinction de cette espèce d'animal marin. Personnellement, cette exposition m'a vraiment apaisé. Les sons joués lors des animations étaient doux et m'immersait dans l'univers sous-marin. Les animations étaient plutôt lentes, jolies et presque hypnotiques.
+<br /><br />
+[![ECHOMARINE](https://img.youtube.com/vi/IjvPWGQUqGA/0.jpg)](https://www.youtube.com/watch?v=IjvPWGQUqGA)
 <h2>Appréciation personnelle</h2>
 Ce qui m'a plu de cette oeuvre c'est 
 <br>Cependant, 
