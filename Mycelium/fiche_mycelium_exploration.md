@@ -22,7 +22,7 @@ Ce projet est en deuxième place car j'aime beaucoup l'idée du vélo. Comme Edr
 <h3>Réalisé par: Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel</h3>
 <img src="medias/echomarine_demo.png">
 <img src="medias/echomarine_ordinateur.png">
-Ce projet nous place dans une pièce de 4 rideaux, sur lesquels sont projectés un univers sous-marin. Grâce à une interface web, on peut jouer une animation de l'un des 6 animals marins proposés. À ce stade-ci, seulement 2 des 6 animations, dont la baleine, sont animées. De plus, ils prévoient remplacer l'ordinateur pour une tablette placée au centre de la pièce sur un support. Il y a deux haut-parleurs, un au coin gauche et un au coin droit, qui nous transporte sous l'eau. À l'activation de l'animation, un bruit de l'animal animé est joué.
+Ce projet nous place dans une pièce de 3 rideaux, sur lesquels sont projectés un univers sous-marin. Grâce à une interface web, on peut jouer une animation de l'un des 6 animals marins proposés. À ce stade-ci, seulement 2 des 6 animations, dont la baleine, sont animées. De plus, ils prévoient remplacer l'ordinateur pour une tablette placée au centre de la pièce sur un support. Il y a deux haut-parleurs, un au coin gauche et un au coin droit, qui nous transporte sous l'eau. À l'activation de l'animation, un bruit de l'animal animé est joué.
 <br/><br/>
 <img src="medias/echomarine_schema.png">
 Le schéma de l'installation prévue (https://github.com/F-C-A/EDRIA/blob/main/docs/medias/schema_electrique.png)<br />
