@@ -36,8 +36,8 @@ Lorsque le visiteur entre dans la pièce, le titre disparaît et une lumière bl
 <br /><br />
 [![echomarine](http://img.youtube.com/vi/IjvPWGQUqGA/0.jpg)](http://www.youtube.com/watch?v=IjvPWGQUqGA)
 <h2>Appréciation personnelle</h2>
-Ce qui m'a plu de cette oeuvre c'est 
-<br>Cependant, 
+Ce qui m'a plu de cette oeuvre c'est son originalité. En effet, il fait usage d'un tout autre équipement que les autres oeuvres de l'exposition: au lieu d'utiliser les ampoules, l'équipe a utilisé les projecteurs. Je trouve l'usage de ceux-ci très biens, car ils nous immerse absolument dans l'univers sous-marin, combiné aux jolis bruits sous-marins.
+<br>Cependant, bien qu'une oeuvre contemplative, je trouve l'interactivité peu intéressante. Cliquer sur le bouton d'une interface web nous détachait de l'aspect immersif très important d'Echomarine. Par ce que j'ai vu des personnes qui visitaient, le texte qui apparaîsait sur l'interface de la tablette était très peu souvent lu, donc le but de sensibiliser les utilisateurs aux extinctions des espèces sous-marines était difficilement atteint.
 
 <h2>Références</h2>
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
