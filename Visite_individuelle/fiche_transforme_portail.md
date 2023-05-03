@@ -2,14 +2,33 @@
 <h2>L'exposition</h2>
 L'oeuvre a été exposée dans Oasis Immersion au palais des congrès. Ma fiche se porte sur la première galerie, "Portail" et j'y suis allée le 28 février. L'exposition est temporaire, exposée à partir 19 janvier 2023. La première partie est composée de deux oeuvres immersives, dont "Vestige" et "On The Morning You Wake".
 <br /><br />
-
+<img src="medias/affiche_presentation.png">
 <img src="medias/cartel.png">
 
 <h2>L'oeuvre</h2>
+
 <h3>Vestige</h3>
-La première oeuvre, "Vestige" a été créée par Aaron Bradbury avec Atlas V studio et Astrea Immersive.
+
+La première oeuvre immersive, "Vestige" a été créée par Aaron Bradbury avec Atlas V studio et Astrea Immersive.
 <br /> « C’est dans le cadre d’un travail de recherche sur le deuil que l’auteur Aaron Bradbury a rencontré Lisa, qui venait de perdre son mari Erik six mois auparavant. Erik était l’amour de sa vie, jusqu’à ce que la mort vienne brutalement les séparer. Au sein d’un vide abyssal, des fragments de souvenirs passés apparaissent, retraçant leur vie commune jusqu’au choc de la mort tragique d’Erik. Conçue grâce aux témoignages recueillis lors d’échanges téléphoniques entre Lisa et Aaron Bradbury, Vestige guide le visiteur dans la traversée du deuil, de la rencontre amoureuse à cette rupture soudaine, dans un univers visuel et narratif à la fois sobre et riche. Ce documentaire émouvant offre une perspective courageuse et lumineuse sur le deuil et l’importance de préserver la mémoire. » (tiré du site internet de Oasis Immersion, Transformé)
 <br /><br />
 <img src="medias/vestige_affiche.png">
+<img src="medias/vestige_2.png">
+
 <h3>On The Morning You Wake</h3>
-La deuxième oeuvre, "On The Morning You wake" a créée par Mike Brett, Steve Jamison, Arnaud Colinard et Pierre Zandrowicz avec Atlas V studio et Astrea Immersive.
+
+La deuxième oeuvre immersive, "On The Morning You wake" a créée par Mike Brett, Steve Jamison, Arnaud Colinard et Pierre Zandrowicz avec Atlas V studio et Astrea Immersive.
+<br /> « On the Morning You Wake est un documentaire immersif nouveau genre relatant les 38 minutes de terreur vécues par les citoyens hawaïens à la suite d’une alerte leur annonçant qu’un missile nucléaire allait les frapper. À l’aide de faits réels et d’expériences personnelles, le visiteur est propulsé au cœur de cet événement perturbant, témoignant du chaos qui a bouleversé la population. Cet incident amorça une prise de conscience sur la fragilité de la condition humaine et d’écosystèmes qui pourraient être détruits en un claquement de doigts. On the Morning You Wake nous fait réfléchir à notre compréhension de la menace nucléaire, exposant du même coup les traces que cette expérience laissa sur toute une communauté. » (tiré du site internet de Oasis Immersion, Transformé)
+<br /><br />
+<img src="medias/otmyw_affiche.png">
+<img src="medias/otmyw_1.png">
+
+<h3>Mise en espace et composantes</h3>
+
+<h3>Expérience vécue</h3>
+
+<h3>Appréciation critique</h3>
+
+<h2>Références</h2>
+https://oasis.im/transforme/
+<br />https://www.quebec.ca/nouvelles/actualites/details/nouvelle-exposition-immersive-doasis-immersion-transforme-un-voyage-immersif-futuriste-et-inspire-de-faits-vecus-45111
