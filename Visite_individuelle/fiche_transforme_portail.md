@@ -24,9 +24,13 @@ La deuxième oeuvre immersive, "On The Morning You wake" a créée par Mike Bret
 <img src="medias/otmyw_1.png">
 
 <h3>Mise en espace et composantes</h3>
+Dans les trois galeries combinées, il y a 119 haut-parleurs, 105 projecteurs au laser, 2000 mètres carré de projection et un système d'éclairage LED (tiré du site internet de Oasis Immersion). Avec ces informations, on peut donc conclure que dans la galerie portail il y a près de 30 haut-parleurs et 30 projecteurs au laseur dans une pièce de 500 mètres carré. Il y a aussi une petite projection au centre du plafond. De plus, au plafond il y a des dizaines de cache-fils qui ont pour but de dissimuler discrètement le branchement des plusieurs projecteurs et haut-parleurs. Dans la pièce, il y aussi plusieurs surfaces où s'assir pour confortablement vivre l'expérience. L'écran de projection est sur les 4 murs, à 360 degrés. La salle Portail a une capacité de 100 à 250 personnes.
+<br /><br />
+Pour l'oeuvre <b>Vestige</b>
 <br /><br />
 <img src="medias/schema.jpg">
 <img src="medias/plafond.png">
+<img src="medias/projection_plafond.png">
 
 <h3>Expérience vécue</h3>
 
