@@ -1,6 +1,6 @@
 <h1>Présentation de la galerie portail dans Oasis Immersion: Transformé</h1>
 <h2>L'exposition</h2>
-L'oeuvre a été exposée dans Oasis Immersion au palais des congrès. Ma fiche se porte sur la première galerie, "Portail" et j'y suis allée le 28 février. L'exposition est temporaire, exposée à partir 19 janvier 2023. La première partie est composée de deux oeuvres immersives, dont "Vestige" et "On The Morning You Wake".
+L'oeuvre a été exposée dans Oasis Immersion au palais des congrès. Ma fiche se porte sur la première galerie, "Portail" et j'y suis allée le 28 février. L'exposition est temporaire, exposée à partir du 19 janvier 2023. La première partie est composée de deux oeuvres immersives, dont "Vestige" et "On The Morning You Wake".
 <br /><br />
 <img src="medias/affiche_presentation.png">
 <img src="medias/cartel.png">
@@ -41,6 +41,11 @@ La galerie "Portail" est la première de trois salles immersives. Lorsqu'on rent
 <a href="https://www.youtube.com/watch?v=hsbM1whfqFY">Extrait de "On The Morning You Wake"</a>
 
 <h3>Appréciation critique</h3>
+J'ai beaucoup aimé la première oeuvre, "Vestige". En effet, elle m'a fait subir plusieurs émotions. J'ai été touchée par l'histoire de la narratrice, puisque je ne m'attendrais jamais à ce que quelqu'un que j'aime tombe dans la maladie aussi soudainement. Le deuil est un sujet très difficile à aborder, mais l'auteur l'a évoqué avec perfection. J'ai même pleuré à la fin de l'expérience. Le fait qu'on vive cette histoire dans une salle immersive nous rapproche aussi davantage de la narratrice et ses émotions. Les projections 3D étaient aussi très originales, j'ai aimé l'utilisation de la technique de "Volumetric Livecapture". Ce style nous évoque de la nostalgie, des souvenirs et de notre vulnérabilité, donc cela correspond bien avec l'atmosphère de l'expérience.
+
+<br />J'ai aussi aimé la deuxième, "On The Morning You Wake", aussi très émouvante. Elle nous sensibilise à l'accessiblité facile des armes nucléaires par les plus grandes puissances mondiales. On tombe dans la vie de ces personnes qui pensaient, pour 38 minutes de leur vie, mourir à tout jamais. La sensibilisation est très bien exécutée, je pense que cela à changé la vision de beaucoup de personnes faces aux armes nucléaires, puisqu'on mets en jeu des milliers de familles innocentes. Elle nous démontre aussi que aucun d'entre nous n'est sécuritaire face à la menace nucléaire. J'ai envie de retenir cette idée de recréer des scènes historiques en animation 3D, puis les présenter en réalité virtuelle afin d'immerser les utilisateurs dans les plus importants événements de notre histoire.
+
+<br />Pour l'aspect technique, il y a par contre des aspects que je ferais autrement. Par exemple, 
 
 <h2>Références</h2>
 https://oasis.im/transforme/
