@@ -24,8 +24,14 @@ La deuxième oeuvre immersive, "On The Morning You wake" a créée par Mike Bret
 <img src="medias/otmyw_1.png">
 
 <h3>Mise en espace et composantes</h3>
+<br /><br />
+<img src="medias/schema.jpg">
+<img src="medias/plafond.png">
 
 <h3>Expérience vécue</h3>
+
+<a href="https://youtu.be/6b2MDj53_XI">Extrait de "Vestige"</a><br />
+<a href="https://www.youtube.com/watch?v=hsbM1whfqFY">Extrait de "On The Morning You Wake"</a>
 
 <h3>Appréciation critique</h3>
 
