@@ -5,7 +5,7 @@ Je suis allée voir les oeuvres "Vestige" et "On The Morning You Wake" lors de l
 <h2>Dévloppement</h2>
 <em>Voir fiche de présentation</em>
 
-<br />Un lieu que je pourrais faire avec d'autres oeuvres que nous avons découvert cette session, c'est "Echomarine" lors de l'exposition Mycelium des étudiants de 3ème année en TIM. En effet, ils ont eux aussi utilisés des projecteurs dans une salle fermée pour nous immerser dans un univers, quoique leur oeuvre avait plus d'interactivité et était moins narrative.
+<br />Un lien que je pourrais faire avec d'autres oeuvres que nous avons découvert cette session, c'est "Echomarine" lors de l'exposition Mycelium des étudiants de 3ème année en TIM. En effet, ils ont eux aussi utilisés des projecteurs dans une salle fermée pour nous immerser dans un univers, quoique leur oeuvre avait plus d'interactivité et était moins narrative.
 
 <h2>Conclusion</h2>
 
