@@ -35,7 +35,8 @@ Pour l'oeuvre <b>On The Morning You wake</b>, tout est réalisé dans un logicie
 <img src="medias/projection_plafond.png">
 
 <h3>Expérience vécue</h3>
-
+La galerie "Portail" est la première de trois salles immersives. Lorsqu'on rentre, il est possible de s'installer sur un banc au centre de la pièce ou à l'un des quatres côtés. Lentement, la première oeuvre "Vestige" commence à apparaître avec la voix de la narratrice. Elle dure 12 minutes, mais c'est assez pour faire couler les larmes à certains. Puis, on transitionne lentement vers la deuxième oeuvre "On The Morning You Wake". C'est une expérience de 15 minutes qui nous font vivre une montagne d'émotions: stress, peur, puis soulagement. En résumé, ces deux oeuvres sont très dramatiques, émouvantes et angoissantes. 
+<br /><br />
 <a href="https://youtu.be/6b2MDj53_XI">Extrait de "Vestige"</a><br />
 <a href="https://www.youtube.com/watch?v=hsbM1whfqFY">Extrait de "On The Morning You Wake"</a>
 
