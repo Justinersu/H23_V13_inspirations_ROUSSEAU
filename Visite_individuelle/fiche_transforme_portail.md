@@ -45,7 +45,7 @@ J'ai beaucoup aimé la première oeuvre, <b>Vestige</b>. En effet, elle m'a fait
 
 <br />J'ai aussi aimé la deuxième, <b>On The Morning You Wake</b>, aussi très émouvante. Elle nous sensibilise à l'accessiblité facile des armes nucléaires par les plus grandes puissances mondiales. On tombe dans la vie de ces personnes qui pensaient, pour 38 minutes de leur vie, mourir à tout jamais. La sensibilisation est très bien exécutée, je pense que cela à changé la vision de beaucoup de personnes faces aux armes nucléaires, puisqu'on mets en jeu des milliers de familles innocentes. Elle nous démontre aussi que aucun d'entre nous n'est sécuritaire face à la menace nucléaire. J'ai envie de retenir cette idée de recréer des scènes historiques en animation 3D, puis les présenter en réalité virtuelle afin d'immerser les utilisateurs dans les plus importants événements de notre histoire.
 
-<br />Pour l'aspect technique, il y a par contre des aspects que je ferais autrement. Par exemple, il aurait été intéressant d'intégrer un sol interactif comme le troisième portail, ou bien un plafond complet avec projections. Ça nous aurait immersé d'avantage, puisque les oeuvres se ressentent plutôt comme le visionnement d'un film plutôt qu'une expérience en réalité virtuelle à l'échelle de la pièce.
+<br />Pour l'aspect technique, il y a par contre des aspects que je ferais autrement. Par exemple, il aurait été intéressant d'intégrer un sol interactif comme le troisième portail, ou bien un plafond complet avec projections. Ça nous aurait immersé d'avantage, puisque les oeuvres se ressentent plutôt comme le visionnement d'un film qu'une expérience en réalité virtuelle à l'échelle de la pièce.
 
 <h2>Références</h2>
 https://oasis.im/transforme/
